@@ -63,6 +63,14 @@ $on-laptop:        800px !default;
     }
 }
 
-.site-nav .page-link {
-    color: $white-text;
+.site-nav {
+    .page-link {
+        color: $white-text;
+    }
+    @include media-query($on-palm) {
+        background-color: $brand-color;
+        .menu-icon > svg path {
+          fill: $background-color;
+        }
+    }
 }
