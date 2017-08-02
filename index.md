@@ -1,6 +1,11 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+# Welcome to Surrey CompSoc!
+
+![Surrey CompSoc at Hari's Bar]({{site.url}}/assets/haris_squad.jpg)
+
+We are the **University of Surrey Computing Society**, or **CompSoc**. We host academic event in the field of Computer Science, organising and managing professional events around our field, and social events primarily for CompSci students to have fun.
+
+If you'd like to interact with us, the best bet is to message our [Facebook page](https://www.facebook.com/ComputingSoc). We'd be happy to answer any questions you have about our society, or indeed about Computer Science at Surrey. You can also get in touch with us about opportunities for our Society to get involved with.
