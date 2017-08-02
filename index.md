@@ -4,7 +4,7 @@ layout: home
 
 # Welcome to Surrey CompSoc!
 
-![Surrey CompSoc at Hari's Bar]({{site.url}}/assets/haris_squad.jpg)
+![Surrey CompSoc at Hari's Bar]({{ "/assets/haris_squad.jpg" | relative_url }})
 
 We are the **University of Surrey Computing Society**, or **CompSoc**. We host academic event in the field of Computer Science, organising and managing professional events around our field, and social events primarily for CompSci students to have fun.
 
