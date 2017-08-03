@@ -48,22 +48,37 @@ $on-laptop:        800px !default;
 .site-header {
     border: 0;
     background-color: $brand-color;
+    min-height: $spacing-unit * 2.5;
+    @include media-query($on-palm) {
+        min-height: $spacing-unit * 1.865;
+    }
+
 }
 
 .site-logo {
-    height: $spacing-unit * 1.865 - 8;
+    height: $spacing-unit * 2.5 - 8;
     padding: 4px;
     float: left;
+    @include media-query($on-palm) {
+        height: $spacing-unit * 1.865 - 8;
+    }
 }
 
 .site-title {
     font-weight: 800;
+    font-size: 32px;
+    line-height: 75px;
+    @include media-query($on-palm) {
+        line-height: 54px;
+        font-size: 26px;
+    }
     &, &:visited {
         color: $white-text; // MODIFIED
     }
 }
 
 .site-nav {
+    line-height: 75px;
     .page-link {
         color: $white-text;
     }
@@ -72,5 +87,12 @@ $on-laptop:        800px !default;
         .menu-icon > svg path {
           fill: $background-color;
         }
+    }
+}
+
+header, footer {
+    .wrapper {
+        max-width: 1140px;
+        max-width: 1140px;
     }
 }
