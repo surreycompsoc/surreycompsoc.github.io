@@ -4,7 +4,8 @@
 
 // The front of the Minima theme, replicated here under MIT license, and modified quite a bit.
 
-$base-font-family: "Exo", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$head-font-family: "Teko", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
@@ -65,12 +66,18 @@ $on-laptop:        800px !default;
 }
 
 .site-title {
-    font-weight: 800;
-    font-size: 32px;
-    line-height: 75px;
+    font-family: $head-font-family;
+    position: relative;
+    left: -20px;
+    top: 25px;
+    letter-spacing: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 54px;
     @include media-query($on-palm) {
-        line-height: 54px;
         font-size: 26px;
+        left: -16px;
+        top: 12px;
     }
     &, &:visited {
         color: $white-text; // MODIFIED
