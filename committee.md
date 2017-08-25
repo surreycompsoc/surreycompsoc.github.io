@@ -7,6 +7,8 @@ permalink: /committee/
 Here are your duely-elected members of the 2016–17 committee!
 
 {% for member in site.data.committee %}
+<img class="headshot" src="{{ "/assets/headshots/" | append: member.username | append: ".jpg"  | relative_url }}">
+
 ## {{ member.name }}
 {{ member.position }}
 {% if member.username %}
