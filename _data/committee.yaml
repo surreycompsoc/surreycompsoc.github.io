@@ -2,31 +2,73 @@
 -   position:   President
     name:       Joel Russell
     username:   jr00541
+    links:
+        -   icon: envelope
+            link: mailto:jr00541@surrey.ac.uk
+
+        -   icon: linkedin-square
+            link: https://www.linkedin.com/in/jccrussell/
 
 -   position:   Vice-President
     name:       Holly Boothroyd
     username:   hb00191
+    links:
+            -   icon: envelope
+                link: mailto:hb00191@surrey.ac.uk
+
+            -   icon: linkedin-square
+                link: https://www.linkedin.com/in/holly-boothroyd-68308012a/
 
 -   position:   Treasurer
     name:       Sam Kitson
     username:   sk00754
+    links:
+            -   icon: envelope
+                link: mailto:sk00754@surrey.ac.uk
 
 -   position:   Founder, Creative Director
     name:       Adil Khan
     username:   ak00666
+    links:
+            -   icon: envelope
+                link: mailto:ak00666@surrey.ac.uk
 
 -   position:   Social Secretary
     name:       Emma Field
     username:   ef00197
+    links:
+            -   icon: envelope
+                link: mailto:ef00197@surrey.ac.uk
+
+            -   icon: linkedin-square
+                link: https://www.linkedin.com/in/emma-field/
 
 -   position:   Events Manager
     name:       Darina Georgieva
     username:   dg00281
+    links:
+            -   icon: envelope
+                link: mailto:dg00281@surrey.ac.uk
+
+            -   icon: linkedin-square
+                link: https://www.linkedin.com/in/darina-georgieva-b4076412b/
 
 -   position:   Publicity Officer
     name:       Richard Cleave
     username:   rc00527
+    links:
+            -   icon: envelope
+                link: mailto:rc00527@surrey.ac.uk
+
+            -   icon: linkedin-square
+                link: https://www.linkedin.com/in/richard-cleave-784667152/
 
 -   position:   Webmaster
     name:       Ahmed Komaira
     username:   ak00933
+    links:
+            -   icon: envelope
+                link: mailto:ak00933@surrey.ac.uk
+
+            -   icon: linkedin-square
+                link: https://www.linkedin.com/in/ahmed-komaira/

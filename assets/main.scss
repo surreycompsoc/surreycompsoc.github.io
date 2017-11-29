@@ -104,7 +104,29 @@ header, footer {
     }
 }
 
-.headshot {
-    height: 200px;
-    width: 200px;
+.committee-member {
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    margin: 16px;
+    .headshot {
+        height: 200px;
+        width: 200px;
+    }
+    .committee-name {
+        font-size: 1.5em;
+    }
+    p {
+        margin-bottom:0px;
+    }
+    .committee-links a {
+        &:link, &:visited {
+            color: $brand-color;
+        }
+        &:hover {
+            color: darken($brand-color, 40%);
+        }        
+       font-size: 1.4em;
+       padding: 0.2em;
+    }
 }
