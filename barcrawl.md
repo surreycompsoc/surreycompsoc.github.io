@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Refresh Barcrawl! Feb 7
+display_in_sidebar: true
 permalink: /barcrawl/
 ---
 
 ![Surrey CompSoc at Hari's Bar]({{ "/assets/haris_2k17.jpg" | relative_url }})
 
-Come along to our Icebreaker barcrawl, in 3 simple steps!
+Come along to our next barcrawl, in 3 simple steps!
 
 ## Step 1: Buy a ticket!
 
