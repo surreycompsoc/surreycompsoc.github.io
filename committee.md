@@ -17,5 +17,8 @@ Here are your duly-elected members of the 2016–17 committee!
 <a href="{{ link.link }}"><i class="fa fa-{{ link.icon }}"></i></a>
 {% endfor %}
 </p>
+<p class="committee-description">
+{{ member.description }}
+</p>
 </div>
 {% endfor %}

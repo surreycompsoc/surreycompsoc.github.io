@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Refresh Barcrawl! Feb 7
-display_in_sidebar: true
+display_in_sidebar: false
 permalink: /barcrawl/
 ---
 
@@ -32,7 +32,7 @@ Here's the plan:
 * Hari's Bar 19:00-19:45
 * Spoons 20:00-21:00
 * Pews 21:15-22:00
-* Pop World 22:15-23:00
+* TBC 22:15-23:00
 * Rubix 23:15-02:00
 
 **We'll see you at 7pm, at Hari's bar**
