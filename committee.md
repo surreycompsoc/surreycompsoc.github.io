@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Committee
+header: Committee
 display_in_sidebar: true
 permalink: /committee/
 ---

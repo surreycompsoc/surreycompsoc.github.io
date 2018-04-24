@@ -1,6 +1,7 @@
 ---
 layout: events
 title: Events
+header: Events
 display_in_sidebar: true
 permalink: /events/
 ---
