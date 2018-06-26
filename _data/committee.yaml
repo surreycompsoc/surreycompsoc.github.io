@@ -1,82 +1,70 @@
 ---
 -   position:    President
-    name:        Joel Russell
-    username:    jr00541
+    name:        Christa Smith
+    image:       christa.jpg
     description: The President is the leader and figurehead of the Society. They provide advice and support to the committee, and develop the direction of the group.
     links:
         -   icon: envelope
-            link: mailto:jr00541@surrey.ac.uk
+            link: mailto:cs00653@surrey.ac.uk
 
         -   icon: linkedin-square
-            link: https://www.linkedin.com/in/jccrussell/
+            link: https://www.linkedin.com/in/christa-smith-a490069b
 
 -   position:    Vice-President
-    name:        Holly Boothroyd
-    username:    hb00191
-    description: The Vice-President assists in the central organisation and running of the society. In our society, the VP often takes the lead on running specific events and reaching out for new partnerships or sponsorships.
+    name:        Max Krawiec
+    image:       max.jpg
+    description: The Vice-President assists in the central organisation and running of the society. In our society, the VP role is often dynamic, and can involve running specific events and reaching out for new partnerships or sponsorships.
     links:
             -   icon: envelope
-                link: mailto:hb00191@surrey.ac.uk
-
-            -   icon: linkedin-square
-                link: https://www.linkedin.com/in/holly-boothroyd-68308012a/
+                link: mailto:mk00951@surrey.ac.uk
 
 -   position:    Treasurer
-    name:        Sam Kitson
-    username:    sk00754
+    name:        Noah Swanson
+    image:       noah.jpg
     description: The Treasurer is responsible for managing the funds and budget of the society. They co-ordinate with the Union Finance office when the Society needs to access its funds for events.
     links:
             -   icon: envelope
-                link: mailto:sk00754@surrey.ac.uk
+                link: mailto:ns00631@surrey.ac.uk
 
--   position:    Founder, Creative Director
+            -   icon: linkedin-square
+                link: https://www.linkedin.com/in/noahtmswanson
+
+-   position:    Social Secretary
+    name:        Ryva Collaki
+    description: The Social Secretary's primary role is organisation of social events, such as our infamous barcrawls. The Social Secretary also advises the committee on what to do to engage the members.
+    links:
+            -   icon: envelope
+                link: mailto:rc00389@surrey.ac.uk
+
+            -   icon: linkedin-square
+                link: http://linkedin.com/in/ryva-collaki
+
+-   position:    Industrial Events Co-ordinator
+    name:        Tom Bowins
+    image:       tom.jpg
+    description: The Industrial Events Co-ordinator works with the committee, the department, and companies within the field to organise academic and professional events for our members.
+    links:
+            -   icon: envelope
+                link: mailto:tb00483@surrey.ac.uk
+
+-   position:    Webmaster
+    name:        Joel Russell
+    image:       jr00541.jpg
+    description: Joel, an ex-President, is the Webmaster; selected to look after the organisation and upkeep of the CompSoc website.
+    links:
+            -   icon: envelope
+                link: mailto:jr00541@surrey.ac.uk
+
+            -   icon: linkedin-square
+                link: https://www.linkedin.com/in/jccrussell/
+
+-   position:    Founder and Creative Director
     name:        Adil Khan
-    username:    ak00666
-    description: Our founder Adil remains on the committee to provide his unique experience in the running of CompSoc.
+    image:       adil.jpg
+    description: Our founder and ex-President Adil remains on the committee to provide his unique experience in the running of CompSoc, and takes on the role of 'Creative Director'
     links:
             -   icon: envelope
                 link: mailto:ak00666@surrey.ac.uk
 
--   position:    Social Secretary
-    name:        Emma Field
-    username:    ef00197
-    description: The Social Secretary's primary role is organisation of social events, such as our infamous barcrawls. The Social Secretary also advises the committee on what to do to engage the members.
-    links:
-            -   icon: envelope
-                link: mailto:ef00197@surrey.ac.uk
-
             -   icon: linkedin-square
-                link: https://www.linkedin.com/in/emma-field/
-
--   position:    Events Manager
-    name:        Darina Georgieva
-    username:    dg00281
-    description: The Events Manager coordinates with the committee to put on events that fall outside the remit of the Social Secretary. This would include academic or professional events.
-    links:
-            -   icon: envelope
-                link: mailto:dg00281@surrey.ac.uk
-
-            -   icon: linkedin-square
-                link: https://www.linkedin.com/in/darina-georgieva-b4076412b/
-
--   position:    Publicity Officer
-    name:        Richard Cleave
-    username:    rc00527
-    description: The Publicity Officer hears about events we're putting on, and gets as much promotion for it as possible. This includes on-campus awareness through the TV screens, and online promotion through the Union newsletters and our social media pages.
-    links:
-            -   icon: envelope
-                link: mailto:rc00527@surrey.ac.uk
-
-            -   icon: linkedin-square
-                link: https://www.linkedin.com/in/richard-cleave-784667152/
-
--   position:    Webmaster
-    name:        Ahmed Komaira
-    username:    ak00933
-    description: The Webmaster is selected to look after the organisation and upkeep of the CompSoc website.
-    links:
-            -   icon: envelope
-                link: mailto:ak00933@surrey.ac.uk
-
-            -   icon: linkedin-square
-                link: https://www.linkedin.com/in/ahmed-komaira/
+                link: https://www.linkedin.com/in/adil-khan-8b159a12b/

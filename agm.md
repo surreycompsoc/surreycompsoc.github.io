@@ -2,7 +2,7 @@
 layout: page
 title: 2018 CompSoc AGM
 header: AGM
-display_in_sidebar: true
+display_in_sidebar: false
 permalink: /agm/
 ---
 

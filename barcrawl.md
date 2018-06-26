@@ -2,7 +2,7 @@
 layout: page
 title: Finale Barcrawl! May 4
 header: Finale Barcrawl
-display_in_sidebar: true
+display_in_sidebar: false
 permalink: /barcrawl/
 ---
 

@@ -104,11 +104,15 @@ header, footer {
     }
 }
 
+#committee {
+    text-align: center;
+}
 .committee-member {
     text-align: center;
     display: inline-block;
     vertical-align: top;
     margin: 16px;
+    width: 200px;
     .headshot {
         height: 200px;
         width: 200px;
@@ -125,7 +129,7 @@ header, footer {
         }
         &:hover {
             color: darken($brand-color, 40%);
-        }        
+        }
        font-size: 1.4em;
        padding: 0.2em;
     }

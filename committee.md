@@ -6,11 +6,15 @@ display_in_sidebar: true
 permalink: /committee/
 ---
 
-Here are your duly-elected members of the 2016–17 committee!
-
+Here are your duly-elected members of the 2018-19 committee!
+<div id="committee">
 {% for member in site.data.committee %}
 <div class="committee-member">
-<img class="headshot" src="{{ "/assets/headshots/" | append: member.username | append: ".jpg"  | relative_url }}">
+{% if member.image %}
+<img class="headshot" src="{{ "/assets/headshots/" | append: member.image | relative_url }}">
+{% else %}
+<img class="headshot" src="{{ "/assets/profile_frame.png"  | relative_url }}">
+{% endif %}
 <p class="committee-position">{{ member.position }}</p>
 <p class="committee-name">{{ member.name }}</p>
 <p class="committee-links">
@@ -23,3 +27,4 @@ Here are your duly-elected members of the 2016–17 committee!
 </p>
 </div>
 {% endfor %}
+</div>
