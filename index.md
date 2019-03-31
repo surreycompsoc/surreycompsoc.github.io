@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /
 ---
 
 # Welcome to Surrey CompSoc!
