@@ -1,70 +1,67 @@
 ---
 -   position:    President
-    name:        Christa Smith
-    image:       christa.jpg
+    name:        Giles Billenness
+    image:       giles.jpg
     description: The President is the leader and figurehead of the Society. They provide advice and support to the committee, and develop the direction of the group.
     links:
         -   icon: envelope
-            link: mailto:cs00653@surrey.ac.uk
-
-        -   icon: linkedin-square
-            link: https://www.linkedin.com/in/christa-smith-a490069b
+            link: mailto:gb00538@surrey.ac.uk
 
 -   position:    Vice-President
-    name:        Max Krawiec
-    image:       max.jpg
+    name:        Vinal Asodia
+    image:       vinal.jpg
     description: The Vice-President assists in the central organisation and running of the society. In our society, the VP role is often dynamic, and can involve running specific events and reaching out for new partnerships or sponsorships.
     links:
             -   icon: envelope
-                link: mailto:mk00951@surrey.ac.uk
+                link: mailto:va00191@surrey.ac.uk
 
 -   position:    Treasurer
-    name:        Noah Swanson
-    image:       noah.jpg
+    name:        Alexandra Marevskaia
+    image:       aleks.jpg
     description: The Treasurer is responsible for managing the funds and budget of the society. They co-ordinate with the Union Finance office when the Society needs to access its funds for events.
     links:
             -   icon: envelope
-                link: mailto:ns00631@surrey.ac.uk
-
-            -   icon: linkedin-square
-                link: https://www.linkedin.com/in/noahtmswanson
+                link: mailto:am02316@surrey.ac.uk
 
 -   position:    Social Secretary
-    name:        Ryva Collaki
+    name:        Joseph Kutler
+    image:       joseph.jpg
     description: The Social Secretary's primary role is organisation of social events, such as our infamous barcrawls. The Social Secretary also advises the committee on what to do to engage the members.
     links:
             -   icon: envelope
-                link: mailto:rc00389@surrey.ac.uk
+                link: mailto:jk00687@surrey.ac.uk
 
-            -   icon: linkedin-square
-                link: http://linkedin.com/in/ryva-collaki
-
--   position:    Industrial Events Co-ordinator
-    name:        Tom Bowins
-    image:       tom.jpg
-    description: The Industrial Events Co-ordinator works with the committee, the department, and companies within the field to organise academic and professional events for our members.
+-   position:    Social Secretary
+    name:        Rahul Reddipalli
+    image:       rahul.jpg
+    description: The Social Secretary's primary role is organisation of social events, such as our infamous barcrawls. The Social Secretary also advises the committee on what to do to engage the members.
     links:
             -   icon: envelope
-                link: mailto:tb00483@surrey.ac.uk
-
--   position:    Social Media Manager
-    name:        Sze Ying Lee
-    image:       sze.jpg
-    description: The Social Media Manager informs members and generates interest for future and current events through graphic design and regular posts on the society's social media accounts.
-    links:
-            -   icon: envelope
-                link: mailto:sl01142@surrey.ac.uk
+                link: mailto:rr00486@surrey.ac.uk
 
 -   position:    Webmaster
-    name:        Joel Russell
-    image:       jr00541.jpg
-    description: Joel, an ex-President, is the Webmaster; selected to look after the organisation and upkeep of the CompSoc website.
+    name:        Ankur Mahto
+    image:       ankur.jpg
+    description: The Webmasters maintain and update the society's website on a regular basis and ensure the society has an active site with information that is up-to-date.
     links:
             -   icon: envelope
-                link: mailto:jr00541@surrey.ac.uk
+                link: mailto:am02412@surrey.ac.uk
 
-            -   icon: linkedin-square
-                link: https://www.linkedin.com/in/jccrussell/
+-   position:    Webmaster
+    name:        Xin Wei Lam
+    image:       xinwei.jpg
+    description: The Webmasters maintain and update the society's website on a regular basis and ensure the society has an active site with information that is up-to-date.
+    links:
+            -   icon: envelope
+                link: mailto:xl00751@surrey.ac.uk
+
+-   position:    Charity Coordinator
+    name:        Blake Fowler
+    image:       blake.jpg
+    description: The Charity Coordinator manages volunteering opportunities while organising charity events throughout the year. They will also ensure the society meets its STARS criteria.
+    links:
+            -   icon: envelope
+                link: mailto:bf00187@surrey.ac.uk
 
 -   position:    Founder and Creative Director
     name:        Adil Khan
