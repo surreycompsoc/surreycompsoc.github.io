@@ -6,7 +6,7 @@ display_in_sidebar: true
 permalink: /committee/
 ---
 
-Here are your duly-elected members of the 2018-19 committee!
+Here are your duly-elected members of the 2020-21 committee!
 <div id="committee">
 {% for member in site.data.committee %}
 <div class="committee-member">

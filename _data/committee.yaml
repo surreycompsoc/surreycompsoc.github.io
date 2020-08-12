@@ -17,7 +17,7 @@
 
 -   position:    Social Secretary
     name:        Polya Yaneva
-    image:       polya.jpg
+    image:       polya.png
     description: The Social Secretary's primary role is organisation of social events, such as our infamous barcrawls. The Social Secretary also advises the committee on what to do to engage the members.
     links:
             -   icon: envelope
@@ -25,7 +25,7 @@
 
 -   position:    Wellbeing and Inclusion Champion
     name:        Rio Viernes-Gonzales
-    image:       rio.jpg
+    image:       rio.png
     description: The Wellbeing and Inclusion Champion will support the wellbeing of members and encourage new memberships, and ensure that the society and its events are inclusive.
     links:
             -   icon: envelope
@@ -41,7 +41,7 @@
 
 -   position:    Charity Coordinator
     name:        Timi Ogunbanjo
-    image:       timi.jpg
+    image:       timi.png
     description: The Charity Coordinator manages volunteering opportunities while organising charity events throughout the year. They will also ensure the society meets its STARS criteria.
     links:
             -   icon: envelope
@@ -49,7 +49,7 @@
 
 -   position:    Industrial Coordinator
     name:        Giles Billenness
-    image:       giles2.jpg
+    image:       giles2.png
     description: The Industrial Co-ordinator works with the committee, the department, and companies within the field to organise academic and professional events for our members.
     links:
             -   icon: envelope
