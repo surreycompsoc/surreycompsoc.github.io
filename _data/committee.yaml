@@ -7,6 +7,14 @@
         -   icon: envelope
             link: mailto:am02316@surrey.ac.uk
 
+-   position:    Vice-President
+    name:        Xin Wei Lam
+    image:       xinwei.jpg
+    description: The Vice-President assists in the central organisation and running of the society. In our society, the VP role is often dynamic, and can involve running specific events and reaching out for new partnerships or sponsorships.
+    links:
+            -   icon: envelope
+                link: mailto:xl00751@surrey.ac.uk
+
 -   position:    Treasurer
     name:        Vinal Asodia
     image:       vinal.jpg
@@ -32,8 +40,8 @@
                 link: mailto:rv00138@surrey.ac.uk
 
 -   position:    Webmaster
-    name:        Xin Wei Lam
-    image:       xinwei.jpg
+    name:        This role is open!
+    image:       
     description: The Webmasters maintain and update the society's website on a regular basis and ensure the society has an active site with information that is up-to-date.
     links:
             -   icon: envelope
